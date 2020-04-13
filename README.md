@@ -1,6 +1,6 @@
 # todo-list-vue
 
-[Live demo](https://sciullo.dev/todo-list-vue/)
+Live: https://sciullo.dev/todo-list-vue
 
 ## Project setup
 ```
